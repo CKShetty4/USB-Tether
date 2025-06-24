@@ -29,8 +29,8 @@ To use this tool, USB debugging must be enabled on your Android device:
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/usb-tethering-tool.git
-cd usb-tethering-tool
+https://github.com/CKShetty4/USB-Tether.git
+cd USB-Tether
 ```
 
 ### 3. Run the Tool
@@ -47,7 +47,7 @@ The script will:
 
 ## Project Structure
 ```
-usb-tethering-tool/
+USB-Tether/
 ├── enable_tethering.bat      # Windows batch script for enabling tethering
 ├── enable_tethering.sh       # Shell script for Linux/macOS
 ├── usb_tether_launcher.py    # Python wrapper for cross-platform execution
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the [License](License) file 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
 ## Contact
-For questions or support, please open an issue on the [GitHub repository](https://github.com/yourusername/usb-tethering-tool).
+For questions or support, please open an issue on the [GitHub repository](https://github.com/CKShetty4/USB-Tether/issues).
